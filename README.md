@@ -7,8 +7,3 @@ A script demonstrating the two ray propagation model in various forms of difficu
 
 See the accompanying PDF for the derivations and further explanation.
 
-Currently still working out some stuff with the reflection coefficients...
-The derivation including the complex part (Jordan's book) gives some weird out of phase answers between polarizations in the advanced model.
-Jordan's equations implementation also results in a return to 1/d**2 behaviour at a distance beyond r_break.
-For now the equations by Kraus and Carver seems to work fine.
-
